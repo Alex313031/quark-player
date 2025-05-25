@@ -267,6 +267,15 @@ module.exports = [
     permissions: []
   },
   {
+    name: 'SkyShowtime',
+    title: 'SkyShowtime',
+    logo: 'imgs/skyshowtime.webp',
+    url: 'https://www.skyshowtime.com',
+    color: '#9400FF',
+    style: {},
+    permissions: ['sensors']
+  },
+  {
     name: 'Starz',
     title: 'Starz',
     hidden: true,
